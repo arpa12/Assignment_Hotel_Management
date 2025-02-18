@@ -7,9 +7,6 @@ This is a *Hotel Management System* built using *Laravel* for the backend and *R
 - *Admin Authentication* (Login, Logout)
 - *Manage Hotel Data* (CRUD operations)
 - *Manage Room Bookings*
-- *Manage Customers*
-- *Manage Services*
-- *Dashboard for Admin*
 
 ## Technologies Used
 ### Backend:
@@ -20,7 +17,7 @@ This is a *Hotel Management System* built using *Laravel* for the backend and *R
 ### Frontend:
 - *React.js*
 - *Axios* (API Calls)
-- *Tailwind CSS* (Styling)
+- *CSS* (Styling)
 
 ## Installation
 ### Backend (Laravel)
