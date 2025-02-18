@@ -2,5 +2,6 @@ While working on the assignment, I encountered the following challenges:
 
 1. Setting up the project between React and Laravel, but I successfully completed it.
 2. Facing issues with multi-authentication.
-3. Difficulty in fetching data after creating a separate dashboard for users.
-4. Encountered API issues while performing CRUD operations.
+3. Encountered Google Login issues.
+4. Difficulty in fetching data after creating a separate dashboard for public users.
+5. Encountered API issues while performing CRUD operations, but I successfully completed it.
