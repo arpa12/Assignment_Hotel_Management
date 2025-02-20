@@ -23,7 +23,8 @@ This is a *Hotel Management System* built using *Laravel* for the backend and *R
 ### Backend (Laravel)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/hotel-management.git
+   git clone https://github.com/arpa12/Assignment_Hotel_Management.git
+   cd Assignment_Hotel_Management\backend
    ```
 2. Navigate to the backend directory:
    ```bash
